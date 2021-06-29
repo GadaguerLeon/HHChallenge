@@ -1,0 +1,62 @@
+.RootWrapper {
+  width: 250px;
+  background-color: #dedede;
+  min-height: 100vh;
+  padding: 0 1rem;
+  flex: 0 0 250px;
+
+  .CloseBtn {
+    display: block;
+    width: max-content;
+    margin-left: auto;
+  }
+
+  .ItemsList {
+    padding: 0;
+    list-style-type: none;
+
+    .Item {
+      color: #444;
+      cursor: pointer;
+      font-size: 1.4rem;
+      font-weight: bold;
+      padding: 0.5rem 1rem;
+      text-transform: capitalize;
+
+      &:hover {
+        color: #000;
+      }
+    }
+  }
+
+  .RandomColorBtn {
+    margin-top: 2rem;
+    background-color: white;
+    border: 1px solid;
+    padding: 0.5rem 1rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+
+  @media (max-width: 813px) {
+    position: absolute;
+    z-index: 1000;
+    transform: translateX(-100%);
+    transition: transform 0.5s cubic-bezier(.78,.07,.45,.89);
+
+    &.Show {
+      transform: translateX(0);
+    }
+
+    .RandomColorBtn {
+      margin-top: 1rem;
+    }
+  }
+
+  @media (min-width: 814px) {
+    .CloseBtn {
+      display: none;
+    }
+  }
+}

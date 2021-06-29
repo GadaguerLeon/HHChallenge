@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  height: 100vh;
+
+  .Content {
+    padding: 0.25rem 1rem 1rem;
+    width: 100%;
+    overflow-y: auto;
+
+    @media (min-width: 814px) {
+      padding: 2rem;
+
+      .SidebarBtn {
+        display: none;
+      }
+    }
+  }
+}

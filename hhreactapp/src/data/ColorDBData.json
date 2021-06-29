@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "colorName": "Red",
+    "colorHexValue": "#330000"
+  },
+  {
+    "id": 2,
+    "colorName": "Red",
+    "colorHexValue": "#4c0000"
+  },
+  {
+    "id": 3,
+    "colorName": "Red",
+    "colorHexValue": "#660000"
+  },
+  {
+    "id": 4,
+    "colorName": "Red",
+    "colorHexValue": "#7f0000"
+  },
+  {
+    "id": 5,
+    "colorName": "Red",
+    "colorHexValue": "#990000"
+  },
+  {
+    "id": 6,
+    "colorName": "Red",
+    "colorHexValue": "#b20000"
+  },
+  {
+    "id": 7,
+    "colorName": "Red",
+    "colorHexValue": "#cc0000"
+  },
+  {
+    "id": 8,
+    "colorName": "Red",
+    "colorHexValue": "#e50000"
+  },
+  {
+    "id": 9,
+    "colorName": "Red",
+    "colorHexValue": "#ff0000"
+  },
+  {
+    "id": 10,
+    "colorName": "Red",
+    "colorHexValue": "#ff1919"
+  },
+  {
+    "id": 11,
+    "colorName": "Red",
+    "colorHexValue": "#ff3232"
+  },
+  {
+    "id": 12,
+    "colorName": "Red",
+    "colorHexValue": "#ff4c4c"
+  },
+  {
+    "id": 13,
+    "colorName": "Red",
+    "colorHexValue": "#ff6666"
+  },
+  {
+    "id": 14,
+    "colorName": "Red",
+    "colorHexValue": "#ff7f7f"
+  },
+  {
+    "id": 15,
+    "colorName": "Red",
+    "colorHexValue": "#ff9999"
+  },
+  {
+    "id": 16,
+    "colorName": "Orange",
+    "colorHexValue": "#e59400"
+  },
+  {
+    "id": 17,
+    "colorName": "Orange",
+    "colorHexValue": "#ffa500"
+  },
+  {
+    "id": 18,
+    "colorName": "Orange",
+    "colorHexValue": "#ffae19"
+  },
+  {
+    "id": 19,
+    "colorName": "Orange",
+    "colorHexValue": "#ffb732"
+  },
+  {
+    "id": 20,
+    "colorName": "Orange",
+    "colorHexValue": "#ffc04c"
+  },
+  {
+    "id": 21,
+    "colorName": "Orange",
+    "colorHexValue": "#ffc966"
+  },
+  {
+    "id": 22,
+    "colorName": "Orange",
+    "colorHexValue": "#ffd27f"
+  },
+  {
+    "id": 23,
+    "colorName": "Orange",
+    "colorHexValue": "#ffdb99"
+  },
+  {
+    "id": 24,
+    "colorName": "Orange",
+    "colorHexValue": "#ffe4b2"
+  },
+  {
+    "id": 25,
+    "colorName": "Orange",
+    "colorHexValue": "#ffedcc"
+  },
+  {
+    "id": 26,
+    "colorName": "Yellow",
+    "colorHexValue": "#cccc00"
+  },
+  {
+    "id": 27,
+    "colorName": "Yellow",
+    "colorHexValue": "#e5e500"
+  },
+  {
+    "id": 28,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff00"
+  },
+  {
+    "id": 29,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff19"
+  },
+  {
+    "id": 30,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff32"
+  },
+  {
+    "id": 31,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff4c"
+  },
+  {
+    "id": 32,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff66"
+  },
+  {
+    "id": 33,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff7f"
+  },
+  {
+    "id": 34,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffff99"
+  },
+  {
+    "id": 35,
+    "colorName": "Yellow",
+    "colorHexValue": "#ffffb2"
+  },
+  {
+    "id": 36,
+    "colorName": "Green",
+    "colorHexValue": "#001900"
+  },
+  {
+    "id": 37,
+    "colorName": "Green",
+    "colorHexValue": "#003300"
+  },
+  {
+    "id": 38,
+    "colorName": "Green",
+    "colorHexValue": "#004c00"
+  },
+  {
+    "id": 39,
+    "colorName": "Green",
+    "colorHexValue": "#006600"
+  },
+  {
+    "id": 40,
+    "colorName": "Green",
+    "colorHexValue": "#007f00"
+  },
+  {
+    "id": 41,
+    "colorName": "Green",
+    "colorHexValue": "#009900"
+  },
+  {
+    "id": 42,
+    "colorName": "Green",
+    "colorHexValue": "#00b200"
+  },
+  {
+    "id": 43,
+    "colorName": "Green",
+    "colorHexValue": "#00cc00"
+  },
+  {
+    "id": 44,
+    "colorName": "Green",
+    "colorHexValue": "#00e500"
+  },
+  {
+    "id": 45,
+    "colorName": "Green",
+    "colorHexValue": "#00ff00"
+  },
+  {
+    "id": 46,
+    "colorName": "Green",
+    "colorHexValue": "#19ff19"
+  },
+  {
+    "id": 47,
+    "colorName": "Green",
+    "colorHexValue": "#32ff32"
+  },
+  {
+    "id": 48,
+    "colorName": "Green",
+    "colorHexValue": "#4cff4c"
+  },
+  {
+    "id": 49,
+    "colorName": "Green",
+    "colorHexValue": "#66ff66"
+  },
+  {
+    "id": 50,
+    "colorName": "Green",
+    "colorHexValue": "#7fff7f"
+  },
+  {
+    "id": 51,
+    "colorName": "Green",
+    "colorHexValue": "#99ff99"
+  },
+  {
+    "id": 52,
+    "colorName": "Green",
+    "colorHexValue": "#b2ffb2"
+  },
+  {
+    "id": 53,
+    "colorName": "Green",
+    "colorHexValue": "#ccffcc"
+  },
+  {
+    "id": 54,
+    "colorName": "Green",
+    "colorHexValue": "#e5ffe5"
+  },
+  {
+    "id": 55,
+    "colorName": "Blue",
+    "colorHexValue": "#000033"
+  },
+  {
+    "id": 56,
+    "colorName": "Blue",
+    "colorHexValue": "#00004c"
+  },
+  {
+    "id": 57,
+    "colorName": "Blue",
+    "colorHexValue": "#000066"
+  },
+  {
+    "id": 58,
+    "colorName": "Blue",
+    "colorHexValue": "#00007f"
+  },
+  {
+    "id": 59,
+    "colorName": "Blue",
+    "colorHexValue": "#000099"
+  },
+  {
+    "id": 60,
+    "colorName": "Blue",
+    "colorHexValue": "#0000b2"
+  },
+  {
+    "id": 61,
+    "colorName": "Blue",
+    "colorHexValue": "#0000cc"
+  },
+  {
+    "id": 62,
+    "colorName": "Blue",
+    "colorHexValue": "#0000e5"
+  },
+  {
+    "id": 63,
+    "colorName": "Blue",
+    "colorHexValue": "#0000ff"
+  },
+  {
+    "id": 64,
+    "colorName": "Blue",
+    "colorHexValue": "#1919ff"
+  },
+  {
+    "id": 65,
+    "colorName": "Blue",
+    "colorHexValue": "#3232ff"
+  },
+  {
+    "id": 66,
+    "colorName": "Blue",
+    "colorHexValue": "#4c4cff"
+  },
+  {
+    "id": 67,
+    "colorName": "Purple",
+    "colorHexValue": "#190729"
+  },
+  {
+    "id": 68,
+    "colorName": "Purple",
+    "colorHexValue": "#220a37"
+  },
+  {
+    "id": 69,
+    "colorName": "Purple",
+    "colorHexValue": "#2a0d45"
+  },
+  {
+    "id": 70,
+    "colorName": "Purple",
+    "colorHexValue": "#330f53"
+  },
+  {
+    "id": 71,
+    "colorName": "Purple",
+    "colorHexValue": "#3b1261"
+  },
+  {
+    "id": 72,
+    "colorName": "Purple",
+    "colorHexValue": "#44146f"
+  },
+  {
+    "id": 73,
+    "colorName": "Purple",
+    "colorHexValue": "#4c177d"
+  },
+  {
+    "id": 74,
+    "colorName": "Purple",
+    "colorHexValue": "#551a8b"
+  },
+  {
+    "id": 75,
+    "colorName": "Purple",
+    "colorHexValue": "#663096"
+  },
+  {
+    "id": 76,
+    "colorName": "Purple",
+    "colorHexValue": "#7647a2"
+  },
+  {
+    "id": 77,
+    "colorName": "Purple",
+    "colorHexValue": "#885ead"
+  },
+  {
+    "id": 78,
+    "colorName": "Purple",
+    "colorHexValue": "#9975b9"
+  },
+  {
+    "id": 79,
+    "colorName": "Purple",
+    "colorHexValue": "#aa8cc5"
+  },
+  {
+    "id": 80,
+    "colorName": "Purple",
+    "colorHexValue": "#bba3d0"
+  },
+  {
+    "id": 81,
+    "colorName": "Purple",
+    "colorHexValue": "#bba3d0"
+  },
+  {
+    "id": 82,
+    "colorName": "Purple",
+    "colorHexValue": "#ddd1e7"
+  },
+  {
+    "id": 83,
+    "colorName": "Brown",
+    "colorHexValue": "#210808"
+  },
+  {
+    "id": 84,
+    "colorName": "Brown",
+    "colorHexValue": "#310c0c"
+  },
+  {
+    "id": 85,
+    "colorName": "Brown",
+    "colorHexValue": "#421010"
+  },
+  {
+    "id": 86,
+    "colorName": "Brown",
+    "colorHexValue": "#521515"
+  },
+  {
+    "id": 87,
+    "colorName": "Brown",
+    "colorHexValue": "#631919"
+  },
+  {
+    "id": 88,
+    "colorName": "Brown",
+    "colorHexValue": "#731d1d"
+  },
+  {
+    "id": 89,
+    "colorName": "Brown",
+    "colorHexValue": "#842121"
+  },
+  {
+    "id": 90,
+    "colorName": "Brown",
+    "colorHexValue": "#942525"
+  },
+  {
+    "id": 91,
+    "colorName": "Brown",
+    "colorHexValue": "#a52a2a"
+  },
+  {
+    "id": 92,
+    "colorName": "Brown",
+    "colorHexValue": "#ae3f3f"
+  },
+  {
+    "id": 93,
+    "colorName": "Brown",
+    "colorHexValue": "#b75454"
+  },
+  {
+    "id": 94,
+    "colorName": "Brown",
+    "colorHexValue": "#c06969"
+  },
+  {
+    "id": 95,
+    "colorName": "Brown",
+    "colorHexValue": "#c97f7f"
+  },
+  {
+    "id": 96,
+    "colorName": "Gray",
+    "colorHexValue": "#262626"
+  },
+  {
+    "id": 97,
+    "colorName": "Gray",
+    "colorHexValue": "#333333"
+  },
+  {
+    "id": 98,
+    "colorName": "Gray",
+    "colorHexValue": "#404040"
+  },
+  {
+    "id": 99,
+    "colorName": "Gray",
+    "colorHexValue": "#4c4c4c"
+  },
+  {
+    "id": 100,
+    "colorName": "Gray",
+    "colorHexValue": "#595959"
+  },
+  {
+    "id": 101,
+    "colorName": "Gray",
+    "colorHexValue": "#666666"
+  },
+  {
+    "id": 102,
+    "colorName": "Gray",
+    "colorHexValue": "#737373"
+  },
+  {
+    "id": 103,
+    "colorName": "Gray",
+    "colorHexValue": "#808080"
+  },
+  {
+    "id": 104,
+    "colorName": "Gray",
+    "colorHexValue": "#8c8c8c"
+  },
+  {
+    "id": 105,
+    "colorName": "Gray",
+    "colorHexValue": "#999999"
+  },
+  {
+    "id": 106,
+    "colorName": "Gray",
+    "colorHexValue": "#a6a6a6"
+  },
+  {
+    "id": 107,
+    "colorName": "Gray",
+    "colorHexValue": "#b2b2b2"
+  },
+  {
+    "id": 108,
+    "colorName": "Gray",
+    "colorHexValue": "#bfbfbf"
+  },
+  {
+    "id": 109,
+    "colorName": "Gray",
+    "colorHexValue": "#cccccc"
+  },
+  {
+    "id": 110,
+    "colorName": "Gray",
+    "colorHexValue": "#d8d8d8"
+  },
+  {
+    "id": 111,
+    "colorName": "Gray",
+    "colorHexValue": "#e5e5e5"
+  },
+  {
+    "id": 112,
+    "colorName": "Gray",
+    "colorHexValue": "#f2f2f2"
+  }
+]
